@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Barsha..<br> 🔭 I’m currently working on MERN Projects<br>🌱 I’m currently learning DSA,MERN<br>📚   Studying B.Sc IT (Cyber Security) at MAKAUT</h2>
+<h2 align="left">Hi 👋! My name is Barsha..<br> 🔭 I’m currently working on MERN Projects<br>🌱 I’m currently learning DSA,MERN<br>📚   Studying B.Sc IT (Cyber Security) </h2>
 
 ###
 
