@@ -3,6 +3,7 @@
 </div>
 
 <p align="center"><a href="https://github.com/Techbarsha/"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Freelancer;Content Creator&center=true&width=500&height=30"></a></p>
+
 ###
 
 <div align="center">
