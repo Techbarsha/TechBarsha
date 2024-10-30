@@ -29,9 +29,9 @@
 <p align="left">I'm Barsha from India<br><br>- 🔭 I’m working as MERN Projects<br>- 📚 I'm currently learning DSA,Python,ML<br>- ⚡ In my free time I solve arcade google cloud</p>
 
 
+###
 
-
-<p align="center"><a href="https://github.com/Techbarsha/"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Freelancer,Content Creator&center=true&width=500&height=30"></a></p>
+<p align="center"><a href="https://github.com/Techbarsha/"><img src="https://readme-typing-svg.herokuapp.com?lines=Tech+Enthusiast;Freelancer;Content Creator&center=true&width=500&height=30"></a></p>
 
 ###
 
