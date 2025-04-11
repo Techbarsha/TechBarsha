@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Barsha from India<br><br>- 🔭 I’m working as MERN Projects<br>- 📚 I'm currently learning DSA,Python,ML<br>- ⚡ In my free time I solve arcade google cloud</p>
+<p align="left">I'm Barsha <br><br>- 🔭 I’m working as MERN Projects<br>- 📚 I'm currently learning DSA,Python,ML<br>- ⚡ Exploring Tech</p>
 
 
 ###
