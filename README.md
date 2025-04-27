@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Techbarsha" />
+  <img src="https://profile-counter.glitch.me/Techbarsha/count.svg?"  />
 </div>
 
 
